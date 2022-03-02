@@ -2,6 +2,7 @@
 Python Exercices
 
 Time spent:
+
 Circle - 10 minutes
 
 Lottery - 10 minutes
